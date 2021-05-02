@@ -1,0 +1,13 @@
+C:\Users\natal\Desktop\Programas\C#\Verificação de Triângulos\bin\Debug\netcoreapp3.1\Verificação de Triângulos.exe
+C:\Users\natal\Desktop\Programas\C#\Verificação de Triângulos\bin\Debug\netcoreapp3.1\Verificação de Triângulos.deps.json
+C:\Users\natal\Desktop\Programas\C#\Verificação de Triângulos\bin\Debug\netcoreapp3.1\Verificação de Triângulos.runtimeconfig.json
+C:\Users\natal\Desktop\Programas\C#\Verificação de Triângulos\bin\Debug\netcoreapp3.1\Verificação de Triângulos.runtimeconfig.dev.json
+C:\Users\natal\Desktop\Programas\C#\Verificação de Triângulos\bin\Debug\netcoreapp3.1\Verificação de Triângulos.dll
+C:\Users\natal\Desktop\Programas\C#\Verificação de Triângulos\bin\Debug\netcoreapp3.1\Verificação de Triângulos.pdb
+C:\Users\natal\Desktop\Programas\C#\Verificação de Triângulos\obj\Debug\netcoreapp3.1\Verificação de Triângulos.csprojAssemblyReference.cache
+C:\Users\natal\Desktop\Programas\C#\Verificação de Triângulos\obj\Debug\netcoreapp3.1\Verificação de Triângulos.AssemblyInfoInputs.cache
+C:\Users\natal\Desktop\Programas\C#\Verificação de Triângulos\obj\Debug\netcoreapp3.1\Verificação de Triângulos.AssemblyInfo.cs
+C:\Users\natal\Desktop\Programas\C#\Verificação de Triângulos\obj\Debug\netcoreapp3.1\Verificação de Triângulos.csproj.CoreCompileInputs.cache
+C:\Users\natal\Desktop\Programas\C#\Verificação de Triângulos\obj\Debug\netcoreapp3.1\Verificação de Triângulos.dll
+C:\Users\natal\Desktop\Programas\C#\Verificação de Triângulos\obj\Debug\netcoreapp3.1\Verificação de Triângulos.pdb
+C:\Users\natal\Desktop\Programas\C#\Verificação de Triângulos\obj\Debug\netcoreapp3.1\Verificação de Triângulos.genruntimeconfig.cache
