@@ -22,7 +22,7 @@ namespace Verificação_de_Triângulos
 
         switch(option)
         {   case 1:
-                 Console.WriteLine("Informe a medida do lado 1");
+                Console.WriteLine("Informe a medida do lado 1");
                 lado1 = Convert.ToDecimal(Console.ReadLine());
 
                 Console.WriteLine("Informe a medida do lado 2");
